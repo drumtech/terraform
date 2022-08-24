@@ -1,0 +1,4 @@
+ssh_key = "YOUR_SSH_KEY"
+do_token = "YOUR_TOKEN_FOR_DO"
+email = "YOUR_EMAIL(instead @ -> at | instead . -> _)"
+api_do_wit_keys = "URL_TO_API_WITH_KEYS"

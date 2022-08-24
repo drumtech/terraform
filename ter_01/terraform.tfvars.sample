@@ -1,0 +1,4 @@
+gitlab_token = "YOUR_TOKEN_FROM_GITLAB"
+ssh_key = "YOUR_SSH_KEY_FOR_GITLAB"
+base_url = "link_to_your_base_url"
+full_path = "path_to_repo_groups"
